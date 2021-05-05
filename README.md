@@ -1,8 +1,8 @@
 # ruby-gosu-cells
 
-A degree first year, semester 1 assignment
+A first year degree, semester 1 assignment
 
-Idea taken from agar.io
+Ideas taken from agar.io
 
 
 
